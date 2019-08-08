@@ -9,3 +9,4 @@ edit by dev!
 edit by test!
 edit again by dev!
 edit by remote!
+edit by remote use pull!
